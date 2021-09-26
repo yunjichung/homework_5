@@ -1,5 +1,6 @@
 html {font-family: 'Rowdies'; background-color: #FFEEEC;}
 ul {list-style-type: none;}
+a {text-decoration: none;}
 
 .homenav {color: #EB7B6D; font-size: 20px; text-decoration: none;}
 .productnav {color: #987963; font-size: 20px; text-decoration: none;}
