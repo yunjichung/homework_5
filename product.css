@@ -161,3 +161,8 @@ a {
 .errorprevent {
     color: #EB7B6D;
 }
+
+.back {
+    color: #EB7B6D;
+    text-decoration: none;
+}
